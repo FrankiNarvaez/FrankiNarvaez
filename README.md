@@ -1,4 +1,3 @@
-# 💫 About Me:
 ![landscape](https://art.pixilart.com/sr26f3b8a3d27aws3.gif)
 
 Hi!👋 I am Franki Narvaez, a 19-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
@@ -27,8 +26,11 @@ My experience spans both frontend and backend development, and I'm excited to ex
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FrankiNarvaez&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankiNarvaez&theme=dracula&hide_border=false" alt="Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
