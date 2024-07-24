@@ -1,6 +1,6 @@
 ![landscape](https://art.pixilart.com/sr26f3b8a3d27aws3.gif)
 
-Hi!👋 I am Franki Narvaez, a 19-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
+**Hi!👋 I am Franki Narvaez**, a 19-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
 
 My experience spans both frontend and backend development, and I'm excited to explore innovative projects that allow me to apply my knowledge and acquire new skills. I'm committed to delivering creative and efficient solutions, and I enjoy collaborating with other developers to achieve exceptional results.
 
