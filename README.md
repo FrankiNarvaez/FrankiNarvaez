@@ -5,7 +5,18 @@
 My experience spans both frontend and backend development, and I'm excited to explore innovative projects that allow me to apply my knowledge and acquire new skills. I'm committed to delivering creative and efficient solutions, and I enjoy collaborating with other developers to achieve exceptional results.
 
 ## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:frannki03@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white)](https://wa.me/573225350892) [![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://heyzine.com/flip-book/024c320309.html)
+<a href="https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:frannki03@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/573225350892" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://heyzine.com/flip-book/024c320309.html" target="_blank">
+  <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" />
+</a>
 
 # 💻 Tech Stack:
 
