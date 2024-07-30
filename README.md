@@ -40,7 +40,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
 ## Cloud & Deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,netlify,render,vercel" />
+    <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
   </a>
 </p>
 
