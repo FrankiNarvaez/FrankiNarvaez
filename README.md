@@ -22,7 +22,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
   <a href="https://heyzine.com/flip-book/024c320309.html">
     <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
   </a>
-  <a href="https://frankinarvaea.netlify.app">
+  <a href="https://frankinarvaez.netlify.app">
     <img src="https://img.shields.io/badge/Portafolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portafolio" height="30"/>
   </a>
 </p>
