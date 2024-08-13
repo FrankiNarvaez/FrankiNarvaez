@@ -7,7 +7,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:frannki03@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white)](https://wa.me/573225350892) [![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://heyzine.com/flip-book/024c320309.html)
 
-# 💻 Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
 
 ## Frontend
 <p align="center">
@@ -44,7 +44,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankiNarvaez&theme=dracula&hide_border=false" alt="Streak Stats" /><br/>
