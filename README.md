@@ -9,7 +9,23 @@ My experience spans both frontend and backend development, and I'm excited to ex
 </div>
 
 ## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:frannki03@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white)](https://wa.me/573225350892) [![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://heyzine.com/flip-book/024c320309.html)
+<p align="center">
+  <a href="https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:frannki03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white" alt="Gmail" height="30"/>
+  </a>
+  <a href="https://wa.me/573225350892">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+  </a>
+  <a href="https://heyzine.com/flip-book/024c320309.html">
+    <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
+  </a>
+  <a href="https://frankinarvaea.netlify.app">
+    <img src="https://img.shields.io/badge/Portafolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portafolio" height="30"/>
+  </a>
+</p>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
 
