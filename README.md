@@ -19,10 +19,10 @@ My experience spans both frontend and backend development, and I'm excited to ex
   <a href="https://wa.me/573225350892" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
   </a>
-  <a href="https://heyzine.com/flip-book/024c320309.html" target="_blank">
+  <a href="https://heyzine.com/flip-book/055ea8b198.html" target="_blank">
     <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
   </a>
-  <a href="https://frankinarvaez.netlify.app" target="_blank">
+  <a href="https://jhancarlos.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portfolio" height="30"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,postman,linux,bash,bun,postman,rider,idea,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,postman,linux,bash,bun,rider,idea,vim,neovim" />
   </a>
 </p>
 
