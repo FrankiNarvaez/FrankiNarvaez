@@ -19,7 +19,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
   <a href="https://wa.me/573225350892" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
   </a>
-  <a href="https://heyzine.com/flip-book/055ea8b198.html" target="_blank">
+  <a href="https://heyzine.com/flip-book/6f0b80c403.html" target="_blank">
     <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
   </a>
   <a href="https://jhancarlos.vercel.app" target="_blank">
