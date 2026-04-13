@@ -22,7 +22,7 @@ My experience spans both frontend, backend development, automation with n8n, Bas
   <a href="https://heyzine.com/flip-book/6f0b80c403.html" target="_blank">
     <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
   </a>
-  <a href="https://jhancarlos.me" target="_blank">
+  <a href="https://jhancarlos.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portfolio" height="30"/>
   </a>
 </p>
