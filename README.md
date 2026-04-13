@@ -1,8 +1,8 @@
 ![landscape](https://art.pixilart.com/sr26f3b8a3d27aws3.gif)
 
-**Hi!👋 I am Franki Narvaez**, a 19-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
+**Hi!👋 I am Franki Narvaez**, a 21-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
 
-My experience spans both frontend and backend development, and I'm excited to explore innovative projects that allow me to apply my knowledge and acquire new skills. I'm committed to delivering creative and efficient solutions, and I enjoy collaborating with other developers to achieve exceptional results.
+My experience spans both frontend, backend development, automation with n8n, Bash Shell and Workfront Fusion. I'm excited to explore innovative projects that allow me to apply my knowledge and acquire new skills. I'm committed to delivering creative and efficient solutions, and I enjoy collaborating with other developers to achieve exceptional results.
 
 <div style="display: flex;" align="center">
   <img style="display: inline-block; width: 500px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
@@ -10,7 +10,7 @@ My experience spans both frontend and backend development, and I'm excited to ex
 
 ## 🌐 Contact me:
 <p align="center">
-  <a href="https://linkedin.com/in/franki-jhan-carlos-narvaez-munoz-a04bb0319" target="_blank">
+  <a href="https://www.linkedin.com/in/franki-narvaez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="mailto:frannki03@gmail.com" target="_blank">
