@@ -1,75 +1,131 @@
-![landscape](https://art.pixilart.com/sr26f3b8a3d27aws3.gif)
-
-**Hi!👋 I am Franki Narvaez**, a 21-year-old Fullstack developer from Colombia, with a great passion for technology and software development. I love tackling new challenges and am always looking for opportunities to learn and grow professionally.
-
-My experience spans both frontend, backend development, automation with n8n, Bash Shell and Workfront Fusion. I'm excited to explore innovative projects that allow me to apply my knowledge and acquire new skills. I'm committed to delivering creative and efficient solutions, and I enjoy collaborating with other developers to achieve exceptional results.
-
-<div style="display: flex;" align="center">
-  <img style="display: inline-block; width: 500px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
+<div align="center">
+  <img height="292" src="https://art.pixilart.com/sr26f3b8a3d27aws3.gif"  />
 </div>
 
-## 🌐 Contact me:
-<p align="center">
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frankinarvaez/frankinarvaez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frankinarvaez/frankinarvaez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frankinarvaez/frankinarvaez/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">I'm a fullstack developer from Colombia with a strong passion for technology and continuous learning. He has experience in both frontend and backend development, as well as automation using tools like n8n, Bash Shell, and Workfront Fusion. He enjoys taking on new challenges, collaborating with other developers, and building creative, efficient solutions while constantly seeking opportunities to grow professionally.</p>
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://jhancarlos.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=jhancarlos.dev&logo=dev.to&label=&color=E5EEE4&logoColor=000&labelColor=&style=flat" height="30" alt="devto logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/franki-narvaez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:frannki03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white" alt="Gmail" height="30"/>
-  </a>
-  <a href="https://wa.me/573225350892" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=Whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
-  </a>
-  <a href="https://heyzine.com/flip-book/6f0b80c403.html" target="_blank">
-    <img src="https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white" alt="CV" height="30"/>
-  </a>
-  <a href="https://jhancarlos.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white" alt="Portfolio" height="30"/>
-  </a>
-</p>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+</div>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
+###
 
-## Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwind,figma,vite" />
-  </a>
-</p>
+<h2 align="left">Tech Stack</h2>
 
-## Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,nodejs,nestjs,express,java" />
-  </a>
-</p>
+###
 
-## Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="60" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="60" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+</div>
 
-## Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,postman,linux,bash,bun,rider,idea,vim,neovim" />
-  </a>
-</p>
+###
 
-## Cloud & Deployment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
-  </a>
-</p>
+<h2 align="left">Stats</h2>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrankiNarvaez&theme=dracula&hide_border=false" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankiNarvaez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankinarvaez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankinarvaez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=frankinarvaez&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=frankinarvaez&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
+###
+
+<h2 align="left">Random Dev Quote</h2>
+
+###
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+###
