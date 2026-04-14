@@ -118,14 +118,10 @@
 
 ###
 
-###
-
 <h2 align="left">Random Dev Quote</h2>
 
 ###
 
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=onedark)
 
 ###
