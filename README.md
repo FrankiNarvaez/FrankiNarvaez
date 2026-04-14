@@ -104,9 +104,9 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=FrankiNarvaez&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://streak-stats.demolab.com/?user=FrankiNarvaez&theme=onedark&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FrankiNarvaez&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.shion.dev/api?username=FrankiNarvaez&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=FrankiNarvaez&theme=onedark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FrankiNarvaez&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ###
@@ -117,10 +117,8 @@
 
 ###
 
-<h2 align="left">Random Dev Quote</h2>
-
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=onedark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox"/>
+</div>
 
 ###
